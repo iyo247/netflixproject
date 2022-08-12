@@ -1,0 +1,48 @@
+.ord-net{
+    width: 150px;
+}
+
+.homepage{
+    background-image: url(netflix\ background.png);
+    height: 100vh;
+}
+
+.sign-in{
+    margin-left: 75rem;
+    position: relative;
+    bottom: 40px;
+    width: 70px;
+    height: 30px;
+    font-size: medium;
+    background-color: red;
+    color: white;
+    border-style: none;
+}
+ 
+.sign-in a{
+    text-decoration: none;
+    color: white;
+}
+.showcase-content{
+    color:white;
+    text-align: center;
+    font-size: 30px;
+}
+.btn{
+    background-color: red;
+    border-style: none;
+}
+
+.btn a{
+    text-decoration: none;
+    color: white;
+    border-style: none;
+    font-size: 20px;
+}
+
+.new{
+  font-size: 40px;
+}
+
+
+
